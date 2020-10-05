@@ -29,7 +29,7 @@ You can use it just like the UnderlineTabIndicator:
         indicator: TiledTabIndicator(
             indicatorHeight: 5,
             colors: [
-                Color(0x0ff655dfc),
+                Color(0xff655dfc),
                 Color(0xff5174fa),
                 Color(0xff3299fc),
                 Color(0xff3dc9de),
