@@ -11,7 +11,7 @@ Add this to your package's 'pubspec.yaml' file:
 ```
 ´´´
 dependencies:
-    tiled_tab_indicator: ^1.0.0
+    tiled_tab_indicator: ^1.0.1
 ```
 
 Now in your Dart code, you can import like this:
