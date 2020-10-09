@@ -1,6 +1,6 @@
 name: tiled_tab_indicator
 description: TiledTabIndicator is a tab indicator with multiple colored tiles in a line.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Nekuin/tiled_tab_indicator
 
 environment:
